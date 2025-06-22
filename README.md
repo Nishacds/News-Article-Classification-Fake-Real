@@ -67,13 +67,6 @@ Our solution involves building a supervised learning model trained on labeled ne
 
 ---
 
-## 🖼️ GUI Preview
-
-(images/"C:\Users\NISHA KUMARI\Pictures\Screenshots\Screenshot 2025-06-22 155106.png")
-
-![Fake News Classifier GUI]("C:\Users\NISHA KUMARI\Pictures\Screenshots\Screenshot 2025-06-22 155106.png")
-
-
 ## 📌 Conclusion
 
 The News Article Classification (Fake/Real) project successfully demonstrates how AI and NLP can be harnessed to address one of the modern era's most critical challenges: misinformation. The combination of a well-performing ML model, a clear explanation mechanism, and an attractive user interface makes it both impactful and user-centric. This project stands as a testament to how technology can empower individuals and organizations to make informed decisions based on verified information.
