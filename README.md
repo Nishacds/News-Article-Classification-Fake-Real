@@ -71,6 +71,8 @@ Our solution involves building a supervised learning model trained on labeled ne
 
 (images/"C:\Users\NISHA KUMARI\Pictures\Screenshots\Screenshot 2025-06-22 155106.png")
 
+![Fake News Classifier GUI]("C:\Users\NISHA KUMARI\Pictures\Screenshots\Screenshot 2025-06-22 155106.png")
+
 
 ## 📌 Conclusion
 
